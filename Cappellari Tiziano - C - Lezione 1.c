@@ -2,6 +2,7 @@
  * ##
  * ## Professore Cappellari Tiziano
  * ## Corso di C per Arduino
+ * ## 
  */
 
 //-------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -92,7 +93,3 @@
  * 2) Argomento della funzione come Void
  * 3) Puntatori a Void
  */
-
-compiti per casa:
-rivedere il sorgente fatto
-andare su github.com e registratevi
